@@ -1,3 +1,4 @@
+%% µÍ∆Ã√˚≥∆
 Stores = {'freeshipping2you';'bestdailydeals';'orionmotortech';'seriouswholesaler';'globalfreeshipping';'wowfreeshipping1';'acautoparts04';'greaaatprice4u2';'green.wholesaler';'premiumautopart';'majorsavings14';'y-not69'};
 conn = database('ERP', 'sa', 'Oceania0488'); 
 
